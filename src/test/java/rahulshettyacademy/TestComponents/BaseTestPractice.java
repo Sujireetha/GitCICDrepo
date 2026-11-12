@@ -86,4 +86,7 @@ public class BaseTestPractice  {
 	   FileUtils.copyFile(src, new File(path2));
 	   return path2;
 	    }
+	    public void getName () {
+	    	System.out.println("name");
+	    }
 }
