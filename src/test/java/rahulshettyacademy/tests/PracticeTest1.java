@@ -63,8 +63,11 @@ public class PracticeTest1 extends BaseTestPractice {
 	  HashMap<String,String> map1 = new HashMap<String,String> ();
 	  map1.put("email", "user@1234");
 	  map1.put("name", "user1");
+	  HashMap<String,String> map3 = new HashMap<String,String>();
+	  map3.put("email", "admin@123");
+	  map3.put("name", "admin");
 	  return new Object[][] {
-		  {map},{map1}
+		  {map},{map1},{map3}
 	  };
   }
 

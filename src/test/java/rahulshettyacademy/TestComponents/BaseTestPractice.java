@@ -88,5 +88,6 @@ public class BaseTestPractice  {
 	    }
 	    public void getName () {
 	    	System.out.println("name");
+	    	System.out.println("place");
 	    }
 }
