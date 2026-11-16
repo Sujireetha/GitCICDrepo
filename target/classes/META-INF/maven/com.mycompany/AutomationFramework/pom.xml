@@ -34,7 +34,7 @@
             <version>3.5.4</version>
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>AutomationFramework/testng.xml</suiteXmlFile>
+                    <suiteXmlFile>testng.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>
